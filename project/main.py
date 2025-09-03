@@ -52,7 +52,7 @@ class LoginScreen(Screen):
         criar_btn = Button(text="Criar conta")
         criar_btn.bind(on_press=lambda *_: setattr(self.manager, 'current', 'create_account'))
         esqueceu_btn = Button(text="Esqueceu a senha?")
-        esqueceu_btn.bind(on_press=lambda *_: setattr(self.manager, 'reset_request'))
+        esqueceu_btn.bind(on_press=lambda *_: setattr(self.manager, 'current', 'reset_request'))
 
         botoes.add_widget(criar_btn)
         botoes.add_widget(esqueceu_btn)
