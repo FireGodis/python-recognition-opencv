@@ -1,27 +1,21 @@
+# Projeto em Python
 
-## This project was made with:
+## Este projeto foi feito com:
 
-* [Python 3.7](https://www.python.org/) 
+* [Python 3.7](https://www.python.org/)
 
-## how to run the project?
+## Como executar o projeto?
 
-* Create a virtualenv with Python 3.
-* Activate virtualenv.
-* Install dependencies.
-* Run migrations.
+* Crie um ambiente virtual com Python 3.  
+* Ative o ambiente virtual.  
+* Instale as dependências.  
+* Execute as migrações.
 
-```
+```bash
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 python kivy_sistema.py
-``` 
+Luiz Henrique, Gustavo Sabino e Eduardo Marinho
 
-### Thanks ❤️
-[@eticialima](https://www.instagram.com/eticialima)
-
-### buymeacoffee buymeacoffee
-
-<a href="https://www.buymeacoffee.com/leticialima" target="_blank">
- <img  src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
-</a>
+Apoie nosso trabalho
