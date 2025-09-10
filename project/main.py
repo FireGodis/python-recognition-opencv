@@ -15,7 +15,7 @@ from kivy.uix.image import Image
 from kivy.uix.button import Button
 from kivy.uix.floatlayout import FloatLayout
 from kivy.uix.textinput import TextInput
-from kivy.core.window import Window
+
 
 # COR DA JANELA E TAMANHO
 Window.clearcolor = (0.5, 0.5, 0.5, 1)
