@@ -11,11 +11,17 @@
 * Instale as dependências.  
 * Execute as migrações.
 
+Luiz Henrique, Gustavo Sabino e Eduardo Marinho
+
+Apoie nosso trabalho
+
 ```bash
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 python kivy_sistema.py
-Luiz Henrique, Gustavo Sabino e Eduardo Marinho
 
-Apoie nosso trabalho
+
+
+
+
